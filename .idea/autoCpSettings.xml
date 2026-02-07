@@ -3,7 +3,7 @@
   <component name="settings.Project">
     <option name="fileGenerationRoot">
       <map>
-        <entry key="AtCoder" value="$AtCoder$groupName" />
+        <entry key="AtCoder" value="$groupName" />
         <entry key="Baekjoon Online Judge" value="$groupName" />
       </map>
     </option>
