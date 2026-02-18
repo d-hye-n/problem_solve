@@ -1,5 +1,5 @@
 import sys
-ipnut = sys.stdin.readline
+input = sys.stdin.readline
 
 def main():
     total_length, nums_house = map(int, input().split())
